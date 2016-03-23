@@ -1,0 +1,12 @@
+/* For desktop: */
+
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+{
+    
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;
+
+    }
+

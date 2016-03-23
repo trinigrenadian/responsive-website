@@ -1,0 +1,11 @@
+/* PHONE*/
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightblue;
+    }
+
+
+h3{
+	font-size: 1em;
+}
+}
